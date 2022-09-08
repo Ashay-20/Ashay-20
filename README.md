@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashay Katrojwar
-- 👀 I’m interested in Machine Learning and Data Science
+- 👀 I’m interested in `Machine Learning` and Data Science
 
 <!---
 Ashay-20/Ashay-20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
