@@ -1,7 +1,14 @@
 - 👋 Hi, I’m Ashay Katrojwar
 - 👀 I’m interested in `Machine Learning` and Data Science
 
-![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/@ashaykatrojwar/notebook)
+![](https://road-to-kaggle-grandmaster.vercel.app/api/simple/ashaykatrojwar)
+
+
+
+![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/notebook/ashaykatrojwar)
+![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/discussion/ashaykatrojwar)
+![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/dataset/ashaykatrojwar)
+![](https://road-to-kaggle-grandmaster.vercel.app/api/badges/competition/ashaykatrojwar)
 
 
 <!---
